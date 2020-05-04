@@ -1,0 +1,23 @@
+{
+        "allowedElementList": [
+                "Aera", "Gaea"
+        ],
+        "gemList": [
+                {
+                        "elementName": "Aera",
+                        "level": 3,
+                        "pos": {
+                                "x": 2,
+                                "y": 1
+                        }
+                },
+                {
+                        "elementName": "Gaea",
+                        "level": 3,
+                        "pos": {
+                                "x": 3,
+                                "y": 1
+                        }
+                }
+        ]
+}

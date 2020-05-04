@@ -1,0 +1,23 @@
+{
+        "allowedElementList": [
+                "Ignen", "Aguen"
+        ],
+        "gemList": [
+                {
+                        "elementName": "Ignen",
+                        "level": 3,
+                        "pos": {
+                                "x": 2,
+                                "y": 0
+                        }
+                },
+                {
+                        "elementName": "Aguen",
+                        "level": 3,
+                        "pos": {
+                                "x": 8,
+                                "y": 2
+                        }
+                }
+        ]
+}

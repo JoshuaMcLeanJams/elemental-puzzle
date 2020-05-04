@@ -1,0 +1,63 @@
+{
+        "dictionary" : [
+                {
+                        "key": "level min",
+                        "value": 0
+                },
+                {
+                        "key": "level max",
+                        "value": 20
+                },
+                {
+                        "key": "speed min",
+                        "value": 0
+                },
+                {
+                        "key": "speed max",
+                        "value": 3
+                },
+                {
+                        "key": "random piece count",
+                        "value": 2
+                },
+                {
+                        "key": "time max per gem",
+                        "value": 10
+                },
+                {
+                        "key": "time bonus per second",
+                        "value": 2
+                },
+                {
+                        "key": "all clear bonus",
+                        "value": 1000
+                }
+        ],
+        "musicList": [
+                "coral-forest",
+                "first-story"
+        ],
+        "speedList" : [
+                {
+                        "name": "SLOW",
+                        "dropSec": 1.0,
+                        "pointMult": 0.8
+                },
+                {
+                        "name": "NORMAL",
+                        "dropSec": 0.7,
+                        "pointMult": 1.0
+                },
+                {
+                        "name": "FAST",
+                        "dropSec": 0.4,
+                        "pointMult": 1.2
+                },
+                {
+                        "name": "ULTRA SPEED",
+                        "dropSec": 0.2,
+                        "pointMult": 2.0
+                }
+        ],
+        "versionString" : "0.1.2a"
+}

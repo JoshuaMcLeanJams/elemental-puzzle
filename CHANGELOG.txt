@@ -1,0 +1,25 @@
+________
+\ 0.1.2
+ =========
+ ADDED
+ - Pause to access in-game menu for options, return to title, etc.
+ - Audio options in-game and in title (volume sliders 
+ - Dim "powered up" elements (in line with matching crystal)
+ - Four game speeds with score multipliers
+ - After 20 levels, increase game speed
+ - Game setup: select starting level, speed, and music
+ - All clear and time completion bonus points
+ - High score displayed on title
+ - Remember highest level played (up to Ultra Speed 20)
+
+ UPDATED
+ - Quickdrop snaps instead of going fast speed
+ - Display where quickdrop will land
+ - On floor, can slide horizontally for a short time (even in quickdrop)
+ - Better element randomization to ensure a good mix
+
+________
+\ 0.1.1
+ =========
+ First version for Weakness Week hosted by TigerJ
+ 	<https://itch.io/jam/weakness-week>

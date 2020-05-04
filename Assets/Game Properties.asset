@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951130d38b016454eb3070f5dd9b441b, type: 3}
+  m_Name: Game Properties
+  m_EditorClassIdentifier: 
+  m_gameName: Elemental Puzzle
+  m_executableName: elemental-puzzle
+  m_versionMajor: 0
+  m_versionMinor: 1
+  m_versionRelease: 2
+  m_bitbucketUrl: 
+  m_readmeFileName: README.txt
+  m_changelogFileName: CHANGELOG.txt
+  m_sceneFolder: Assets
+  m_sceneList:
+  - title
+  - main
+  - high-score
+  m_itchUserNane: joshua-mclean
+  m_itchChannel: elemental-puzzle

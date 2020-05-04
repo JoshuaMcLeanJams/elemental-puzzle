@@ -1,0 +1,6 @@
+level - gems / allowed
+0 - A / I, gem on ground (top clear)
+1 - AI / AI, one on ground other in air
+2 - AI / AI, in one corner A over G (side clear)
+3 - GE / GE, in middle ground touching 
+4 - normal
